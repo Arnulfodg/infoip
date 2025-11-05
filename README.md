@@ -2,8 +2,8 @@
 
 Pequeña suite en **Bash** para calcular y documentar redes IPv4 a partir de IPs/CIDR (locales o remotas) y **generar listas de objetivos para Nmap**. Crea informes en CSV con máscara, ID de red, broadcast, conteo de hosts y clasifica si la red es **Privada** o **Pública**.
 
-> Autor: Rookie Ryu + GPT‑5  
-> Licencia: MIT (sugerida — ajusta según tus necesidades)
+> Autor: midesmis / arnulfo 
+> Licencia: apache 2.0
 
 ---
 
@@ -229,9 +229,7 @@ nmap -sn -iL ./nmap_targets/nmap_targets_2025-11-05_18-30-00.txt
 
 ## 🧾 Licencia
 
-Este proyecto se sugiere bajo **MIT**. Ajusta el texto de licencia según tu necesidad corporativa o personal.
-
----
+Este proyecto se sugiere bajo **APACHE 2.0**. 
 
 ## 👤 Créditos
 
