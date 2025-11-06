@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# netinfo.sh - v2.0 (mejora: integración con Nmap)
-# Herramienta de cálculo de redes (local, archivo o remoto)
-# Creado por: midesmis
+# Copyright (c) 2025 Arnulfo De Gracia
+# Licensed under the Apache License, Version 2.0.
+# See LICENSE file or http://www.apache.org/licenses/LICENSE-2.0
 
 set -euo pipefail
 
