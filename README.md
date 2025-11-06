@@ -1,6 +1,7 @@
 # HERRAMIENTA DE RED v2.0 — `infoip.sh`
 
 
+![infoip2](https://github.com/user-attachments/assets/e6af89a6-47e6-460a-829d-522d699bb7a4)
 
 Pequeña suite en **Bash** para calcular y documentar redes IPv4 a partir de IPs/CIDR (locales o remotas) y **generar listas de objetivos para Nmap**. Crea informes en CSV con máscara, ID de red, broadcast, conteo de hosts y clasifica si la red es **Privada** o **Pública**.
 
